@@ -1,7 +1,7 @@
 ### Ola Eu sou Pietro Henrique 
 -  ⚠️ Sou um Homem Trans 
-- 🔭 Hoje trabalho com back-end 
-- 🌱 Estudando Java 8 , Spring Boot , Mongo DB
+- 🔭 Hoje trabalho com back-end e front end
+- 🌱 Estudando Java 8 , Spring Boot , Mongo DB, ReactJS, AngularJS, NextJS, Prisma
 - 📫 Contate - me no email: hiquepietro@gmail.com
 - 😄 Pronomes : Ele/Dele 
 
