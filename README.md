@@ -26,16 +26,10 @@
   <img align="center" alt="Hique-SpringBoot" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
 </div>
-
-<br>
-
-### **Ferramentas de desenvolvimento**
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
 <br>
   
 <div>
-### **Onde mim encontrar**  
+###Onde mim encontrar
 <br>
   <a href="https://instagram.com/ih_pietro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:hiqeupietro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
