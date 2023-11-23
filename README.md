@@ -1,5 +1,5 @@
 <h1 align="center">Ola Eu sou Pietro Henrique </h1>
-<h3 align="center">Desenvolvimento de Full Stack</h3>
+<h3 align="center">Desenvolvimento de FullStack</h3>
 <h2 align="center"><br>
  -  ⚠️ Sou um Homem Trans 
  <br>
