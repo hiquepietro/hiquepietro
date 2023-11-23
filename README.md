@@ -1,6 +1,6 @@
-<h1 align="center">
- ### Ola Eu sou Pietro Henrique 
- <br>
+<h1 align="center">Ola Eu sou Pietro Henrique </h1>
+<h3 align="center">Desenvolvimento de Full Stack</h3>
+<h2 align="center"><br>
  -  ⚠️ Sou um Homem Trans 
  <br>
  - 🔭 Hoje trabalho com back-end e front end
@@ -8,9 +8,7 @@
  - 📫 Contate - me no email: hiquepietro@gmail.com
  <br>
  - 😄 Pronomes : Ele/Dele 
- <br>
-</h1>
-<h3 align="center">Desenvolvimento de Full Stack</h3>
+ <br></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiquepietro&label=Profile%20views&color=0e75b6&style=flat" alt="hiquepietro" /> </p>
 
