@@ -14,7 +14,7 @@
 
 <h3 align="left">Conexão</h3>
 <p align="left">
-<a href="linkedin.com/in/pietrohenri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pietrohenri/" height="30" width="40" /></a>
+<a href="[linkedin.com/in/pietrohenri](https://www.linkedin.com/in/pietrohenri/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pietrohenri/" height="30" width="40" /></a>
 <a href="https://discord.gg/pietrohenriquealvesdossantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pietrohenriquealvesdossantos" height="30" width="40" /></a>
 </p>
 
